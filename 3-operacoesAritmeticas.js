@@ -6,4 +6,4 @@ console.log((2 + 8) * 2); // e entre parenteses a primeira conta a ser feita
 
 console.log("ano" + 2021); // quando fazemos "conta" de uma string com um numero a operação não é matemática,
 
-console.log("2" + "2"); // mas sim uma concatenação, por isso as variaveis são juntadas/unidas ao inves de somadas
+console.log("2" + "2"); // mas sim uma concatenação, por isso as variaveis são juntadas/unidas ao inves de somadas 
